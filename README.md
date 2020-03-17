@@ -5,6 +5,6 @@ Simple single page web site leveraging bootstrap cards to create a bio page with
 
 https://katrootes.github.io/
 
-![BIO Page](http://katrootes.github.io/WebSite.png)
+![BIO Page](https://raw.githubusercontent/katrootes.github.io/master/WebSite.png)
 
 
